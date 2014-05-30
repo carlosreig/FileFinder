@@ -1,0 +1,18 @@
+{
+    "name": "carlosreig/filefinder",
+    "version": "v1.0",
+    "authors": [
+        {
+            "name": "Carlos Reig",
+            "email": "unstatu@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": { "carlosreig\\FileFinder": "src/carlosreig/FileFinder" }
+    }
+}
