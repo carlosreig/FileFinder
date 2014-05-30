@@ -13,6 +13,6 @@
     "require-dev": {
     },
     "autoload": {
-        "psr-4": { "carlosreig\\FileFinder": "src/carlosreig/FileFinder" }
+        "psr-4": { "carlosreig\\FileFinder\\": "src/carlosreig/FileFinder" }
     }
 }
